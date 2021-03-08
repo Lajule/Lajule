@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Golang APIs @[ringover][1]
+- 🔭 I’m currently working on Golang APIs at 📞[ringover][1]
 
 [1]: https://www.ringover.com/
 
