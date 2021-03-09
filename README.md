@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Golang APIs at 📞 [Ringover][1]
 
-![Languages](https://github.com/Lajule/Lajule/blob/master/Languages.svg)
+![Languages](https://github.com/Lajule/Lajule/blob/master/Languages.png)
 
 [1]: https://www.ringover.com/
 
