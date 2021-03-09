@@ -1,8 +1,7 @@
-### Hi there 👋
+### 🥖 Bonjour
 
 - 🔭 I’m currently working on Golang APIs at 📞 [Ringover][1]
-
-![chart](https://github.com/Lajule/Lajule/blob/main/chart.svg)
+- 🌱 I also worked on ![chart](https://github.com/Lajule/Lajule/blob/main/chart.svg)
 
 [1]: https://www.ringover.com/
 
