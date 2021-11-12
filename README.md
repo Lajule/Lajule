@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Golang APIs at 📞 [Ringover][1]
 - 🌱 I also worked on : 
     
-  ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajule&hide=shell,makefile,m4,cmake,dockerfile,tsql,html,css,pug&layout=compact&langs_count=100)
+  ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajule&hide=shell,makefile,m4,cmake,dockerfile,tsql,html,css,pug,mustache&layout=compact&langs_count=100)
 
 [1]: https://www.ringover.com/
 
