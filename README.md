@@ -1,6 +1,6 @@
 ### 🥖 Bonjour
 
-- 🌱 I also worked on : 
+- 🌱 I work on : 
     
   ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajule&hide=shell,makefile,m4,cmake,dockerfile,tsql,html,css,pug,mustache&layout=compact&langs_count=100)
 
