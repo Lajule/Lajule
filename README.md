@@ -1,8 +1,8 @@
 ### 🥖 Bonjour
 
 
-- 🔭 I’m currently working on Serverless SQL Databases at Scaleway
-- 🔭 I’m currently working on Data Warehouse at Scaleway
+- 🔭 I’m currently working on Serverless SQL Databases at [Scaleway][1]
+- 🔭 I’m currently working on Data Warehouse at [Scaleway][1]
 - 🌱 I work on : 
     
   ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajule&hide=shell,makefile,m4,cmake,dockerfile,tsql,html,css,pug,mustache&layout=compact&langs_count=100)
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://github.com/Scaleway
